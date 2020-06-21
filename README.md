@@ -11,7 +11,7 @@ By default the script will check the `tests` directory. You can change this by m
 Works on Mac OS 10.15.3 and Python 3.7.2
 
 # Why does this exist? and why Neelix?
-I wanted a small project to play with Python and because I like Star Trek! Also, I had to manage a project that a very large number of JSONs and I wanted to quickly validate each one (before a build process)
+I wanted a small project to play with Python and because I like Star Trek! Also, I had to manage a project that a very large number of JSONs and I wanted to quickly validate each one (before a build process).
 
 # Image Courtesy
 https://stt.wiki/wiki/Resistance_Neelix
