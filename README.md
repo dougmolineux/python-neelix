@@ -1,5 +1,5 @@
 # python-neelix <img src="https://stt.wiki/w/images/thumb/e/e8/Resistance_Neelix_Head.png/180px-Resistance_Neelix_Head.png" align="center" width="40px">
-Python script that checks directory for invalid JSONs.
+Python script that searches a directory for invalid JSONs.
 
 # How to Run
 Run this command: `python3 neelix.py`
